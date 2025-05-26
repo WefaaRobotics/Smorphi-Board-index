@@ -14,7 +14,7 @@
           "architecture": "esp32",
           "version": "2.0.4",
           "category": "ESP32",
-          "url": "https://github.com/WefaaRobotics/Smorphi_Board/releases/download/2.0.4/Smorphi_Board.zip",
+          "url": "https://github.com/WefaaRobotics/Smorphi_Board/releases/download/1.0.1/Smorphi_Board.zip",
           "archiveFileName": "Smorphi_Board.zip",
           "checksum": "SHA-256:93062a58484914448f3e400d0d590ef1e9003cc239bca8e4f56c7f2fe56852c3",
           "size": "540367254 ",
