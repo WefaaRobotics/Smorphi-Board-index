@@ -12,18 +12,25 @@
         {
           "name": "Smorphi Boards",
           "architecture": "esp32",
-          "version": "2.0.4",
-          "category": "ESP32",
+          "version": "1.0.1",
+          "category": "Smorphi Boards",
           "url": "https://github.com/WefaaRobotics/Smorphi_Board/releases/download/1.0.1/Smorphi_Board.zip",
           "archiveFileName": "Smorphi_Board.zip",
-          "checksum": "SHA-256:93062a58484914448f3e400d0d590ef1e9003cc239bca8e4f56c7f2fe56852c3",
-          "size": "540367254 ",
+          "checksum": "SHA-256:fb381958247eec96088bba51ce76fbe4154f496f089c1224c4b70906be97810a",
+          "size": "540969959",
           "help": {
             "online": ""
           },
+          "platformDependencies": [
+            {
+              "name": "esp32",
+              "architecture": "esp32",
+              "version": "2.0.4"
+            }
+          ],
           "boards": [
             {
-              "name": "ESP32 Dev Board"
+              "name": "smorphiesp32 Dev Board"
             }
           ],
           "toolsDependencies": [
